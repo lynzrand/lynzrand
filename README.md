@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, Rynco here!
 
-<!--
-**01010101lzy/01010101lzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- He/Him
+- Undergraduate at BUAA
+- Chinese/English
+- Common pseudonyms: Rynco Maekawa (前川琳子), 夏琳梓
 
-Here are some ideas to get you started:
+## Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rated from more to less familiar:
+
+- C#: ASP.NET Core, Unity3D
+- Rust: Tokio
+- Typescript: Angular > Vue > React
+- PostgreSQL
+- Vanilla JS
+- Python
+- Dart: Flutter
+
+## Recent status
+
+Compilers are interesting!
