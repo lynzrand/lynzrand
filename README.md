@@ -6,17 +6,10 @@
 - Common pseudonyms: Rynco Maekawa (前川琳子), 夏琳梓
 - Always wanting to change the world
 
-#### Tech stack
+#### Where to find me
 
-Rated from more to less familiar:
+- [Twitter](https://twitter.com/lynzrand)
+- [Telegram channel](https://t.me/rynif)
+- Email: See profile
 
-- C#: ASP.NET Core, Unity3D
-- Rust: Async, Compilers
-- Javascript / Typescript: Angular > Vue > React ~= Vanilla
-- PostgreSQL
-- Python
-- Dart: Flutter
-
-#### Recent status
-
-Studying compilers
+[Wanna see more about me?](about.md)
