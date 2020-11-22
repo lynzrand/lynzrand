@@ -1,22 +1,22 @@
-# Hi, Rynco here!
+### Hi, Rynco here!
 
 - He/Him
 - Undergraduate at BUAA
 - Chinese/English
 - Common pseudonyms: Rynco Maekawa (前川琳子), 夏琳梓
+- Always wanting to change the world
 
-## Tech stack
+#### Tech stack
 
 Rated from more to less familiar:
 
 - C#: ASP.NET Core, Unity3D
-- Rust: Tokio
-- Typescript: Angular > Vue > React
+- Rust: Async, Compilers
+- Javascript / Typescript: Angular > Vue > React ~= Vanilla
 - PostgreSQL
-- Vanilla JS
 - Python
 - Dart: Flutter
 
-## Recent status
+#### Recent status
 
-Compilers are interesting!
+Studying compilers
