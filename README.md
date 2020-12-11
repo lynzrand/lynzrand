@@ -3,7 +3,8 @@
 - He/Him
 - Undergraduate at BUAA
 - Chinese/English
-- Common pseudonyms: Rynco Maekawa (前川琳子), 夏琳梓
+- Common usernames: `lynzrand`, `01010101lzy`
+- Common pseudonyms: Rynco Maekawa (前川琳子 _Maekawa Rinko_), 夏琳梓
 - Always wanting to change the world
 
 #### Where to find me
