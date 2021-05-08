@@ -3,7 +3,7 @@
 - He/Him
 - Undergraduate at BUAA, major in Software Engineering
 - Chinese / English ~~/ Japanese~~
-- Common usernames: `lynzrand`
+- Writes Rust, C# and TypeScript. Also writes Python and C/C++, but less often.
 - Common pseudonyms: Rynco Maekawa (前川琳子 _Maekawa Rinko_), 夏琳梓 (_Xia Linzi_)
 - Always wanting to change the world
 
@@ -14,4 +14,4 @@
 - Discord: `Rynco Maekawa#0379`
 - Email: See profile
 
-[Wanna see more about me?](about.md)
+[More about me](about.md)
