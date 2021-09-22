@@ -15,3 +15,5 @@
 - Email: See profile
 
 [More about me](about.md)
+
+Ah yes, if you like my work, you can consider supporting me at <https://ko-fi.com/lynzrand>!
