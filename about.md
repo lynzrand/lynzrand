@@ -2,21 +2,39 @@
 
 ## Tech stack
 
-Rated from most to least familiar:
+I have a very diverse tech stack. The following is a rough list of my skills:
 
-- C#: ASP.NET Core, Unity3D
-- Rust: Async, Compilers
-- Javascript / Typescript: Angular > Vue > React ~= Vanilla
-- PostgreSQL
-- Python
-- Dart: Flutter
+1. "Yeah, I use it everyday"
 
-## Todo list
+    - Rust
+    - Typescript (Angular)
+    - Compilers
 
-- Learn more about compilers
-- Postgraduate at BUAA
+2. "Probably good enough for everyday use"
 
-## Other stuff
+    - C# (ASP.NET Core)
+    - C / C++ (Without code gymnastics)
+    - Java (11+)
 
-- My telegram music & art channel: https://t.me/rynif_music
-- Bilibili live channel (seldom goes live): https://live.bilibili.com/12952
+3. "It might take a couple more searches"
+
+    - Python
+    - PostgreSQL
+    - Redis
+    - C# (Unity3D)
+    - Kotlin
+    - Dart (Flutter)
+    - Golang
+
+4. "I definitely know _something_ about that"
+
+    - Type theory
+    - Elixir
+    - Lisp / Scheme / Racket
+    - Machine Learning
+    - Assembly
+
+5. "I'd like to learn more, but practically speaking I know nothing"
+
+    - Haskell
+    - Scala
