@@ -4,7 +4,7 @@
 - Postgraduate at BUAA, studying compilers.
 - Chinese / English ~~/ Japanese~~
 - Rustacean.
-- Writes Rust, C# and TypeScript. Also writes Python and C/C++, but less often.
+- C++ for work, Rust for fun. Also writes C#, JS/TS, Python.
 - Common pseudonyms: Rynco Maekawa (前川琳子 _Maekawa Rinko_), 夏琳梓 (_Xia Linzi_)
 - Always wanting to change the world.
 
