@@ -1,11 +1,12 @@
 ### Hi, Rynco here!
 
 - He/Him
+- Also known as: 夏琳梓 (_Xia Linzi_)
 - Postgraduate at BUAA, studying compilers.
 - Chinese / English ~~/ Japanese~~
 - Rustacean.
-- C++ for work, Rust for fun. Also writes C#, JS/TS, Python.
-- Common pseudonyms: Rynco Maekawa (前川琳子 _Maekawa Rinko_), 夏琳梓 (_Xia Linzi_)
+- C++ for work, Rust for fun. Also writes C#/F#, JS/TS, Java and Python whenever needed.
+- Enlightened.
 - Always wanting to change the world.
 
 #### Social Media
@@ -16,8 +17,7 @@ Being an introvert doesn't mean I don't want more online friends! You can find m
 - Telegram: [@lynzrand](https://t.me/lynzrand)
 - Discord: `Rynco Maekawa#0379`
 - Mastodon: [rynco@mastodon.social](https://mastodon.social/web/@rynco) (Basically a Twitter account mirror)
-
-_You know where to find my email, don't you?_
+- Ingress: `Rynco`
 
 #### Supporting me
 
