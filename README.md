@@ -11,7 +11,7 @@
 
 #### Social Media
 
-Being an introvert doesn't mean I don't want more online friends! You can find me in the following social networks:
+You can find me in the following social networks:
 
 - Twitter: [@lynzrand](https://twitter.com/lynzrand)
 - Telegram: [@lynzrand](https://t.me/lynzrand)
@@ -21,6 +21,8 @@ Being an introvert doesn't mean I don't want more online friends! You can find m
 
 #### Supporting me
 
-If you like my side projects, you can consider buying me some coffee at <https://ko-fi.com/lynzrand>! I won't be sparing more time working on them, but I'll definitely be more happy when I do have time to work on them!
+Everything is support! Leave a like on Twitter, subscribe to my Telegram channel, chat with me and share cool stuff, maybe watch my videos (when they're up). Friends are always welcomed!
+
+If you really love my projects, maybe consider supporting me at <https://ko-fi.com/rynco>. I dunno but I might spend more time on them!
 
 #### [More about me](about.md)
