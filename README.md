@@ -25,8 +25,12 @@ Everything is support! Leave a like on Twitter, subscribe to my Telegram channel
 
 If you really love my projects, maybe consider supporting me at <https://ko-fi.com/rynco>. I dunno but I might spend more time on them!
 
-#### Check out my resumé ([English][resume-en] / [中文简历][resume-zh]), or learn [more about me](about.md)
+### I'm looking for a job!
 
-[resume-en]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.2/resume-en.pdf
-[resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.2/resume.pdf
+Check out my resumé ([English][resume-en] / [中文简历][resume-zh]) if you're hiring! 
+
+I will be availble once I graduate in Januaray 2024.
+
+[resume-en]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.3/resume-en.pdf
+[resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.3/resume.pdf
 
