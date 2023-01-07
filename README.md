@@ -19,12 +19,6 @@ You can find me in the following social networks:
 - Mastodon: [rynco@mastodon.social](https://mastodon.social/web/@rynco) (Basically a Twitter account mirror)
 - Ingress: `Rynco`
 
-#### Supporting me
-
-Everything is support! Leave a like on Twitter, subscribe to my Telegram channel, chat with me and share cool stuff, maybe watch my videos (when they're up). Friends are always welcomed!
-
-If you really love my projects, maybe consider supporting me at <https://ko-fi.com/rynco>. I dunno but I might spend more time on them!
-
 ### I'm looking for a job!
 
 Check out my resumé ([English][resume-en] / [中文简历][resume-zh]) if you're hiring! 
