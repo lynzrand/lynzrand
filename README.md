@@ -6,8 +6,7 @@
 - Chinese / English ~~/ Japanese~~
 - Rustacean.
 - C++ for work, Rust for fun. Also writes C#/F#, JS/TS, Java and Python whenever needed.
-- Enlightened.
-- Always wanting to change the world.
+- AFK Ingress agent (englightened) & KSP player.
 
 #### Social Media
 
