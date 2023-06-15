@@ -19,6 +19,11 @@ You can find me in the following social networks:
 - Mastodon: [rynco@mastodon.social](https://mastodon.social/web/@rynco) (Basically a Twitter account mirror)
 - Ingress: `Rynco`
 
+Also, my PGP keys:
+[`B119BA40670B5443`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0xB119BA40670B5443),
+[`D7413BC1F5AFC104`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0xD7413BC1F5AFC104) and
+[`6A3E6D8E4F5AD67D`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=6A3E6D8E4F5AD67D) (in order of descending usage).
+
 ### I'm looking for a job!
 
 Check out my resumé ([English][resume-en] / [中文简历][resume-zh]) if you're hiring! 
