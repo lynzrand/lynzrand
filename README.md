@@ -30,6 +30,6 @@ Check out my resumé ([English][resume-en] / [中文简历][resume-zh]) if you'r
 
 I will be availble once I graduate in Januaray 2024.
 
-[resume-en]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.3/resume-en.pdf
-[resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.4/resume.pdf
+[resume-en]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.4.1/resume-en.pdf
+[resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.4.1/resume.pdf
 
