@@ -16,7 +16,7 @@ You can find me in the following social networks:
 - Twitter: [@lynzrand](https://twitter.com/lynzrand)
 - Telegram: [@lynzrand](https://t.me/lynzrand)
 - Discord: `@lynzrand`
-- Mastodon: [rynco@mastodon.social](https://mastodon.social/web/@rynco) (Basically a Twitter account mirror)
+- Mastodon/Fediverse: [rynco@dvd.chat](https://dvd.chat/@rynco)
 - Ingress: `Rynco`
 
 Also, my PGP keys:
