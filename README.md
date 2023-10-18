@@ -28,7 +28,7 @@ Also, my PGP keys:
 
 Check out my resumé ([English][resume-en] / [中文简历][resume-zh]) if you're hiring! 
 
-I will be availble once I graduate in Januaray 2024.
+I will be availble once I graduate in May 2024.
 
 [resume-en]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.5.1/resume-en.pdf
 [resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.5.1/resume.pdf
