@@ -35,6 +35,6 @@ I will be availble once I graduate in May 2024.
 
 ### Support Me
 
-If you want to support me or my works (really?!), you can buy me a coffee on Ko-fi.com!
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5575O3)
 
-<a href='https://ko-fi.com/D1D5575O3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+(It would be great if you can tell me what you're supporting me for!)
