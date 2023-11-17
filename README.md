@@ -33,3 +33,8 @@ I will be availble once I graduate in May 2024.
 [resume-en]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.5.1/resume-en.pdf
 [resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.5.1/resume.pdf
 
+### Support Me
+
+If you want to support me or my works (really?!), you can buy me a coffee on Ko-fi.com!
+
+<a href='https://ko-fi.com/D1D5575O3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
