@@ -7,7 +7,6 @@
 - Rustacean.
 - C++ for work, Rust for fun. Also writes C#/F#, JS/TS, Java and Python whenever needed.
 - AFK Ingress agent (englightened) & KSP player.
-- Currently working on an optimizing AOT JavaScript compiler called Anode.
 
 #### Social Media
 
