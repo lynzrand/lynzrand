@@ -24,6 +24,7 @@ Also, my PGP keys:
 [`6A3E6D8E4F5AD67D`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x6A3E6D8E4F5AD67D) (in order of descending usage).
 
 My resumé: [English][resume-en] / [中文][resume-zh]
+
 [resume-en]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.5.1/resume-en.pdf
 [resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.5.1/resume.pdf
 
