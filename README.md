@@ -23,12 +23,7 @@ Also, my PGP keys:
 [`D7413BC1F5AFC104`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0xD7413BC1F5AFC104) and
 [`6A3E6D8E4F5AD67D`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x6A3E6D8E4F5AD67D) (in order of descending usage).
 
-### I'm looking for a job!
-
-Check out my resumé ([English][resume-en] / [中文简历][resume-zh]) if you're hiring! 
-
-I will be availble once I graduate in May 2024.
-
+My resumé: [English][resume-en] / [中文][resume-zh]
 [resume-en]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.5.1/resume-en.pdf
 [resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.5.1/resume.pdf
 
