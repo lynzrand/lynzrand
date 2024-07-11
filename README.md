@@ -8,7 +8,9 @@
 - C++ for work, Rust for fun. Also writes C#/F#, JS/TS, Java and Python whenever needed.
 - AFK Ingress agent (englightened) & KSP player.
 
-#### Social Media
+#### Contact me
+
+Email me at: i [at] rynco [dot] me
 
 You can find me in the following social networks:
 
