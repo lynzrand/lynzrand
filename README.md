@@ -2,7 +2,6 @@
 
 - He/Him
 - Also known as: 夏琳梓 (_Xia Linzi_)
-- Postgraduate at BUAA, studying compilers.
 - Chinese / English ~~/ Japanese~~
 - Rustacean.
 - C++ for work, Rust for fun. Also writes C#/F#, JS/TS, Java and Python whenever needed.
