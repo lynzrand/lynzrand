@@ -1,6 +1,6 @@
 ### Hi, Rynco here!
 
-- He/Him
+- He/Him (or whatever. Being a cyber anime girl means whatever fits would work)
 - Also known as: 夏琳梓 (_Xia Linzi_)
 - Chinese / English ~~/ Japanese~~
 - Rustacean.
