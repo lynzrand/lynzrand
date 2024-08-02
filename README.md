@@ -4,8 +4,8 @@
 - Also known as: 夏琳梓 (_Xia Linzi_)
 - Chinese / English ~~/ Japanese~~
 - Rustacean.
-- C++ for work, Rust for fun. Also writes C#/F#, JS/TS, Java and Python whenever needed.
-- AFK Ingress agent (englightened) & KSP player.
+- OCaml and Rust for work. Also writes C/C++, C#/F#, JS/TS, Java and Python whenever needed.
+- Former Ingress agent (englightened) & KSP player.
 
 #### Contact me
 
@@ -22,7 +22,8 @@ You can find me in the following social networks:
 Also, my PGP keys:
 [`B119BA40670B5443`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0xB119BA40670B5443),
 [`D7413BC1F5AFC104`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0xD7413BC1F5AFC104) and
-[`6A3E6D8E4F5AD67D`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x6A3E6D8E4F5AD67D) (in order of descending usage).
+[`6A3E6D8E4F5AD67D`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0x6A3E6D8E4F5AD67D) (in order of descending usage;
+add them all at once [here](https://github.com/lynzrand.gpg)).
 
 My resumé: [English][resume-en] / [中文][resume-zh]
 
