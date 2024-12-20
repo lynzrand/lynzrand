@@ -1,8 +1,8 @@
 ### Hi, Rynco here!
 
-- He/Him (or whatever. Being a cyber anime girl means whatever fits would work)
+- He/Him (or whatever)
 - Also known as: 夏琳梓 (_Xia Linzi_)
-- Chinese / English ~~/ Japanese~~
+- Chinese / English ~~/ Japanese (studying)~~
 - Rustacean.
 - OCaml and Rust for work. Also writes C/C++, C#/F#, JS/TS, Java and Python whenever needed.
 - Former Ingress agent (englightened) & KSP player.
@@ -17,7 +17,8 @@ You can find me in the following social networks:
 - Telegram: [@lynzrand](https://t.me/lynzrand)
 - Discord: `@lynzrand`
 - Mastodon/Fediverse: [rynco@dvd.chat](https://dvd.chat/@rynco)
-- Ingress: `Rynco`
+- Steam: [夏琳梓](https://steamcommunity.com/id/rynco/)
+- ~~Ingress: `Rynco`~~ No longer active by having a custom ROM :)
 
 Also, my PGP keys:
 [`B119BA40670B5443`](http://keyserver.ubuntu.com/pks/lookup?op=vindex&search=0xB119BA40670B5443),
