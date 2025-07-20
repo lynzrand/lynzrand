@@ -28,8 +28,8 @@ add them all at once [here](https://github.com/lynzrand.gpg)).
 
 My resumé: [English][resume-en] / [中文][resume-zh]
 
-[resume-en]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.5.1/resume-en.pdf
-[resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/resume-0.5.1/resume.pdf
+[resume-en]: https://github.com/lynzrand/lynzrand/releases/download/resume-2025.07/resume-en.pdf
+[resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/resume-2027.07/resume-zh.pdf
 
 ### Support Me
 
