@@ -18,6 +18,7 @@ You can find me in the following social networks:
 - Discord: `@lynzrand`
 - Mastodon/Fediverse: [rynco@dvd.chat](https://dvd.chat/@rynco)
 - Steam: [夏琳梓](https://steamcommunity.com/id/rynco/)
+- Unsplash: [@lynzrand](https://unsplash.com/@lynzrand)
 - ~~Ingress: `Rynco`~~ No longer active by having a custom ROM :)
 
 Also, my PGP keys:
@@ -28,8 +29,8 @@ add them all at once [here](https://github.com/lynzrand.gpg)).
 
 My resumé: [English][resume-en] / [中文][resume-zh]
 
-[resume-en]: https://github.com/lynzrand/lynzrand/releases/download/resume-2025.07/resume-en.pdf
-[resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/resume-2027.07/resume-zh.pdf
+[resume-en]: https://github.com/lynzrand/lynzrand/releases/download/latest/resume-en.pdf
+[resume-zh]: https://github.com/lynzrand/lynzrand/releases/download/latest/resume-zh.pdf
 
 ### Support Me
 
